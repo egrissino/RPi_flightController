@@ -12,3 +12,6 @@ this will copy the folder into your home directory
 type "cd RPi_flightController"
 
 now to compile the code type "make"   # Be sure that make is installed on your Pi
+
+
+# * THIS IS NOT FUNCTIONAL YET, IT IS STILL IN DEVELOPMENT *
