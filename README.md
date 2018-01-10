@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER UNDER DEVELOPMENT, PLEASE SEE THE ARDUINO BASED FLIGHT CONTROLLER
+
 # RPi_flightController
 Object oriented, multithreaded, uncoupled 3-axis PID based flight controller for quad rotors with Raspberry Pi brain
 
